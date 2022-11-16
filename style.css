@@ -3,8 +3,8 @@
     .card-grid{
         padding-top:50px;
         display:grid;
-        grid-template-rows:repeat(2,25rem);
-        grid-template-columns: repeat(2,17rem);
+        grid-template-rows:repeat(2,40rem);
+        grid-template-columns: repeat(1,17rem);
     }
     
     p{
@@ -14,16 +14,16 @@
     
     .card{
     margin-left:50px;
-    height:20rem;
-    width:10rem;
+    height:40rem;
+    width:25rem;
     }
     
     .card-text{
-        font-size:10px;
+        font-size:30px;
     }
     
     .card-img-top{
-       width:10rem;
+       width:25rem;
        height:35rem;
     }
     
