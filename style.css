@@ -52,6 +52,20 @@
     #comment{
         width:500px;
     }
+
+   
+.descTitle{
+    margin-left:150px;
+    font-size:50px;
+    font-family:'Oswald',sans-serif;
+}
+
+.description{
+    height:125px;
+    border-style:solid;
+    border-radius:10px;
+font-size:20px;
+}
     
 }
 
@@ -125,4 +139,18 @@ table,th,td{
     font-size:50px;
 
 }
+
+.descTitle{
+    margin-left:750px;
+    font-size:100px;
+    font-family:'Oswald',sans-serif;
 }
+
+.description{
+    margin-left:520px;
+    width:1000px;
+    font-size:25px;
+}
+}
+
+
